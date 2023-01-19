@@ -1,0 +1,7 @@
+#!/bin/bash
+while :
+do
+sleep 30s && vlc Chopin-nocturne-in-c-sharp-minor.mp3
+#xdg-open https://www.youtube.com/watch?v=bo_efYhYU2A
+
+done
